@@ -11,6 +11,7 @@ spec:
     matchLabels:
       app: webserver
   strategy: {}
+  dfdfdsf: dsds
   template:
     metadata:
       labels:
